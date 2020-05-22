@@ -1,8 +1,8 @@
 {
-  "name": "gnt",
-  "version": "1.0.0",
+  "name": "@jgop7/gn_t",
+  "version": "1.0.1",
   "description": "General typescript class",
-  "main": "index.js",
+  "main": "gn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
