@@ -1,0 +1,25 @@
+{
+  "name": "gnt",
+  "version": "1.0.0",
+  "description": "General typescript class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgop/GNt.git"
+  },
+  "keywords": [
+    "GNt",
+    "General"
+  ],
+  "author": "João Palhinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgop/GNt/issues"
+  },
+  "homepage": "https://github.com/jgop/GNt#readme"
+}
